@@ -6,7 +6,7 @@ There are multiple vendors developing EHR applications for health institues and 
 - Whether FHIR API in the same across those vendors or not, what differences are, and how to integrate with all of them at once?
 
 Epic has list of end-points availalble over here - https://open.epic.com/MyApps/Endpoints
-Cerner seems to hide them and work as a service, or proxing stand-alone instances (After observing https://1up.health/fhir-endpoint-directory/1 end-points)
+Cerner seems to hide them and work as a service, or proxing stand-alone instances (After observing https://1up.health/fhir-endpoint-directory/1 end-points), I asked community - https://groups.google.com/g/cerner-fhir-developers/c/tEyTJqaWYTs
 
 Apple lists supported EHRs over here - https://support.apple.com/pl-pl/guide/healthregister/apd380e106a1/1.0/web/1.0
 
